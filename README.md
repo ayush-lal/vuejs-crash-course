@@ -1,1 +1,1 @@
-# vuejs-crash-course
+# VueJS Crash Course
